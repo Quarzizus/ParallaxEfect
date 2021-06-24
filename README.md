@@ -1,2 +1,3 @@
-# ParallaxEfect
-Parallax Efect
+# ParallaxEffect
+
+Parallax Effect
